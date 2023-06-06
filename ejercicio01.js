@@ -18,7 +18,7 @@ function next_pal(numero) {
     return siguienteNumero;
   }
   
-  // Ejemplo de uso
+  // Ejemplo de uso de la función (cálculo)
   const numeroInicial = 11;
   const siguientePalindromo = next_pal(numeroInicial);
   console.log(`El siguiente número palíndromo después de ${numeroInicial} es: ${siguientePalindromo}`);
